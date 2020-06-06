@@ -1,0 +1,63 @@
+#topheader {
+  border-bottom: 1px solid #ebebeb;
+}
+
+#topheader a {
+  color: #353b48;
+  font-weight: 600;
+  font-size: 0.89rem;
+}
+
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+nav ul li a {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.full-footer {
+  background: #34495e;
+}
+
+.mail {
+  font-size: 0.9rem;
+}
+
+.top-section {
+  background: #133eca;
+  color: white;
+}
+
+.q-img {
+  width: 200px;
+}
+
+.bar {
+  color: white;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border-radius: 1.3rem;
+  border: 1px solid slategray;
+}
+
+.requirement-section {
+  background-color: #004d80;
+  color: white;
+}
+
+.home-newsletter {
+  background-color: #004d80;
+  color: white;
+}
+
+.subscribe {
+  border-radius: 20px 0 0 20px;
+}
+
+.client-section {
+  background-color: #f0f0f0;
+}
+/*# sourceMappingURL=main.css.map */
